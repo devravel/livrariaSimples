@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+    <link rel="stylesheet" href="css/style.css">
 <meta charset="UTF-8">
 <title>Cadastrar Livro</title>
 </head>
@@ -16,5 +17,7 @@
 <input type="hidden" name="acao" value="inserir">
 <input type="submit" value="Salvar">
 </form>
+<a href='index.php'><button type='button'>Voltar</button></a>
+
 </body>
 </html>

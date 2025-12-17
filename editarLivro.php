@@ -69,6 +69,7 @@ if ($cod !== null) {
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+    <link rel="stylesheet" href="css/style.css">
 <meta charset="UTF-8">
 <title>Editar Livro</title>
 </head>
